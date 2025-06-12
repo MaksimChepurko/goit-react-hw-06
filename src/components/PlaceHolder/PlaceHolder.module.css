@@ -1,0 +1,17 @@
+.placeHolderContainer {
+  text-align: center;
+  padding: 20px;
+  background-color: #f3f4f6;
+  border-radius: 8px;
+  margin: 0 auto;
+  max-width: 500px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.placeHolderText {
+  color: #6b7280;
+  font-size: 18px;
+  font-weight: 500;
+}
